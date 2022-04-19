@@ -8,7 +8,7 @@ There are 3 pages: <br>
 
 # Data Searching Tool
 
-This page is has a tool that allows for searching into the data with ease using conditions and filters. If someone wants to do some fact-checking, then it can be easily done with this.
+This page has a tool that allows for searching into the data with ease using conditions and filters. If someone wants to do some fact-checking, then it can be easily done with this.
 
 # Data
 
