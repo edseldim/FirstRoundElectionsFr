@@ -1,4 +1,8 @@
-# FirstRoundElectionsFr
+# Jupyter Files
+ 
+ This folder contains the ``Jupyter`` file where data used by ``1tourfr`` (Excel file) was processed and formatted as well as the ``GoogleTrendsAprilFrElections2022`` Excel file as an extra! (Check the former file for more context ;))
+
+# 1tourfr
 A data visualization spreadsheet on Excel that updates dynamically and lets any user understand the data relative to the first round 2022 presidential elections with ease.
 
 There are 3 pages: <br>
